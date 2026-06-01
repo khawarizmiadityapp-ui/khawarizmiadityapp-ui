@@ -14,6 +14,9 @@
 
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khawarizmiadityapp-ui/kawarizmiadityapp-ui/main/assets/banner.gif">
+</p>
 ---
 
 ## 👨‍💻 About Me
